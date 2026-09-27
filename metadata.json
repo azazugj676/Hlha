@@ -1,0 +1,8 @@
+{
+  "name": "حلّها | Halha - حلول تقنية عربية مبسطة",
+  "description": "منصة عربية تفاعلية تقدم شروحات وحلولاً تقنية بسيطة ومباشرة لمشاكل الآيفون، سامسونج، ويندوز، الشاشات وشبكات الواي فاي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

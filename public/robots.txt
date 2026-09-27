@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://halha.tech/sitemap.xml
